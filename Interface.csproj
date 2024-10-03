@@ -8,15 +8,18 @@
 
   <PropertyGroup>
     <PackageId>Riverside.Interface</PackageId>
-    <PackageReadmeFile>.github\README.md</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>cli, console, riverside</PackageTags>
     <Description>Create a CLI with ease! 📟🛠️</Description>
     <Copyright>Copyright (c) 2024 Lamparter</Copyright>
     <Authors>Lamparter, Riverside</Authors>
-    <PackageIcon>Assets\CLI.png</PackageIcon>
+    <PackageIcon>CLI.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Lamparter/Interface</RepositoryUrl>
     <Version>0.2.3</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Interface</Title>
+    <PackageProjectUrl>https://github.com/Lamparter/Interface</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
